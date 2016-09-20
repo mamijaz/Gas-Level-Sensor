@@ -1,0 +1,55 @@
+(ExpressProject "GasLevelSensUpdated"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\gaslevelsensupdated.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "GASLEVELSENSUPDATED.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (FALSE)
+    (LAYOUT_Units "0")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "D:\STUDY\ORCAD\SEMI 5\GAS LEVEL SENSING UPDATED\GASLEVELSENSUPDATED.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Description}\t{Reference}\t{Value}\t{Quantity}")
+    (BOM_Header "Item\tDescription\tReference\tPart\tQuantity")
+    (BOM_Include_File
+       "D:\STUDY\ORCAD\SEMI 5\GAS LEVEL SENSING UPDATED\GASLEVELSENSUPDATED.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\gaslevelsensupdated.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\gaslevelsensupdated.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PSPICE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\gaslevelsensupdated.dsn")
+      (Path "Design Resources" ".\gaslevelsensupdated.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\gaslevelsensupdated.dsn" "SCHEMATIC1"
+         "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 385"))
+      (Tab 0))))

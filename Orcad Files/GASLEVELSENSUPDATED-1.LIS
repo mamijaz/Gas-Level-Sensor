@@ -1,0 +1,215 @@
+Post Processor Report
+OrCAD FILE: D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.MAX
+Sat Jun 18 18:19:21 2016
+
+*********************************************************
+
+Output file: D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.TOP
+
+Aperture totals for D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.TOP:
+---------------------------------------------------------
+D10:  0.0520 ROUND  --       0 Draws,      12 Flashes
+D11:  0.0520 SQUARE --       0 Draws,       4 Flashes
+D12:  0.0580 ROUND  --       0 Draws,      47 Flashes
+D13:  0.0580 SQUARE --       0 Draws,       5 Flashes
+D14:  0.0620 ROUND  --       0 Draws,       8 Flashes
+D15:  0.0620 SQUARE --       0 Draws,       3 Flashes
+D16:  0.0600 ROUND  --       0 Draws,       2 Flashes
+D17:  0.0600 SQUARE --       0 Draws,       1 Flashes
+D18:  0.1100 ROUND  --       0 Draws,       4 Flashes
+D19:  0.0100 ROUND  --    3379 Draws,       0 Flashes
+D20:  0.0200 ROUND  --      76 Draws,       0 Flashes
+D21:  0.0500 ROUND  --       0 Draws,       2 Flashes
+---------------------------------------------------------
+ 12 D-Codes      -----    3455 Draws,      88 Flashes
+
+*********************************************************
+
+Output file: D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.BOT
+
+Aperture totals for D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.BOT:
+---------------------------------------------------------
+D10:  0.0520 ROUND  --       0 Draws,      12 Flashes
+D11:  0.0520 SQUARE --       0 Draws,       4 Flashes
+D12:  0.0580 ROUND  --       0 Draws,      47 Flashes
+D13:  0.0580 SQUARE --       0 Draws,       5 Flashes
+D14:  0.0620 ROUND  --       0 Draws,       8 Flashes
+D15:  0.0620 SQUARE --       0 Draws,       3 Flashes
+D16:  0.0600 ROUND  --       0 Draws,       2 Flashes
+D17:  0.0600 SQUARE --       0 Draws,       1 Flashes
+D20:  0.0200 ROUND  --      53 Draws,       0 Flashes
+D21:  0.0500 ROUND  --       0 Draws,       2 Flashes
+D22:  0.1000 ROUND  --       0 Draws,       4 Flashes
+---------------------------------------------------------
+ 11 D-Codes      -----      53 Draws,      88 Flashes
+
+*********************************************************
+
+Output file: D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.GND
+
+Aperture totals for D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.GND:
+---------------------------------------------------------
+D19:  0.0100 ROUND  --    2763 Draws,       0 Flashes
+D23:  0.0720 ROUND  --       0 Draws,      12 Flashes
+D24:  0.0720 SQUARE --       0 Draws,       4 Flashes
+D25:  0.0780 ROUND  --       0 Draws,      47 Flashes
+D26:  0.0780 SQUARE --       0 Draws,       5 Flashes
+D27:  0.0820 ROUND  --       0 Draws,       8 Flashes
+D28:  0.0820 SQUARE --       0 Draws,       3 Flashes
+D29:  0.0800 ROUND  --       0 Draws,       2 Flashes
+D30:  0.0800 SQUARE --       0 Draws,       1 Flashes
+D31:  0.1400 ROUND  --       0 Draws,       4 Flashes
+D32:  0.0500 ROUND  --       4 Draws,       0 Flashes
+D33:  0.0750 ROUND  --       0 Draws,       2 Flashes
+---------------------------------------------------------
+ 12 D-Codes      -----    2767 Draws,      88 Flashes
+
+*********************************************************
+
+Output file: D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.PWR
+
+Aperture totals for D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.PWR:
+---------------------------------------------------------
+D23:  0.0720 ROUND  --       0 Draws,      12 Flashes
+D24:  0.0720 SQUARE --       0 Draws,       4 Flashes
+D25:  0.0780 ROUND  --       0 Draws,      47 Flashes
+D26:  0.0780 SQUARE --       0 Draws,       5 Flashes
+D27:  0.0820 ROUND  --       0 Draws,       8 Flashes
+D28:  0.0820 SQUARE --       0 Draws,       3 Flashes
+D29:  0.0800 ROUND  --       0 Draws,       2 Flashes
+D30:  0.0800 SQUARE --       0 Draws,       1 Flashes
+D31:  0.1400 ROUND  --       0 Draws,       4 Flashes
+D32:  0.0500 ROUND  --       4 Draws,       0 Flashes
+D33:  0.0750 ROUND  --       0 Draws,       2 Flashes
+---------------------------------------------------------
+ 11 D-Codes      -----       4 Draws,      88 Flashes
+
+*********************************************************
+
+Output file: D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.SMT
+
+Aperture totals for D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.SMT:
+---------------------------------------------------------
+D10:  0.0520 ROUND  --       0 Draws,      12 Flashes
+D11:  0.0520 SQUARE --       0 Draws,       4 Flashes
+D12:  0.0580 ROUND  --       0 Draws,      47 Flashes
+D13:  0.0580 SQUARE --       0 Draws,       5 Flashes
+D14:  0.0620 ROUND  --       0 Draws,       8 Flashes
+D15:  0.0620 SQUARE --       0 Draws,       3 Flashes
+D16:  0.0600 ROUND  --       0 Draws,       2 Flashes
+D17:  0.0600 SQUARE --       0 Draws,       1 Flashes
+D34:  0.1050 ROUND  --       0 Draws,       4 Flashes
+D35:  0.0550 ROUND  --       0 Draws,       2 Flashes
+---------------------------------------------------------
+ 10 D-Codes      -----       0 Draws,      88 Flashes
+
+*********************************************************
+
+Output file: D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.SMB
+
+Aperture totals for D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.SMB:
+---------------------------------------------------------
+D10:  0.0520 ROUND  --       0 Draws,      12 Flashes
+D11:  0.0520 SQUARE --       0 Draws,       4 Flashes
+D12:  0.0580 ROUND  --       0 Draws,      47 Flashes
+D13:  0.0580 SQUARE --       0 Draws,       5 Flashes
+D14:  0.0620 ROUND  --       0 Draws,       8 Flashes
+D15:  0.0620 SQUARE --       0 Draws,       3 Flashes
+D16:  0.0600 ROUND  --       0 Draws,       2 Flashes
+D17:  0.0600 SQUARE --       0 Draws,       1 Flashes
+D34:  0.1050 ROUND  --       0 Draws,       4 Flashes
+D35:  0.0550 ROUND  --       0 Draws,       2 Flashes
+---------------------------------------------------------
+ 10 D-Codes      -----       0 Draws,      88 Flashes
+
+*********************************************************
+
+Output file: D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.SST
+
+Aperture totals for D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.SST:
+---------------------------------------------------------
+D19:  0.0100 ROUND  --      23 Draws,       0 Flashes
+D36:  0.0080 ROUND  --     348 Draws,       0 Flashes
+---------------------------------------------------------
+  2 D-Codes      -----     371 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.AST
+
+Aperture totals for D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.AST:
+---------------------------------------------------------
+D10:  0.0520 ROUND  --       0 Draws,      12 Flashes
+D11:  0.0520 SQUARE --       0 Draws,       4 Flashes
+D12:  0.0580 ROUND  --       0 Draws,      47 Flashes
+D13:  0.0580 SQUARE --       0 Draws,       5 Flashes
+D14:  0.0620 ROUND  --       0 Draws,       8 Flashes
+D15:  0.0620 SQUARE --       0 Draws,       3 Flashes
+D16:  0.0600 ROUND  --       0 Draws,       2 Flashes
+D17:  0.0600 SQUARE --       0 Draws,       1 Flashes
+D19:  0.0100 ROUND  --      23 Draws,       0 Flashes
+D32:  0.0500 ROUND  --       4 Draws,       0 Flashes
+D36:  0.0080 ROUND  --     840 Draws,       0 Flashes
+---------------------------------------------------------
+ 11 D-Codes      -----     867 Draws,      82 Flashes
+
+*********************************************************
+
+Output file: D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.DRD
+
+Aperture totals for D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.DRD:
+---------------------------------------------------------
+D19:  0.0100 ROUND  --     897 Draws,       0 Flashes
+D32:  0.0500 ROUND  --       4 Draws,       0 Flashes
+---------------------------------------------------------
+  2 D-Codes      -----     901 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.FAB
+
+Aperture totals for D:\STUDY\ORCAD\SEMI 5\UPDATED\GASLEVELSENSUPDATED-1.FAB:
+---------------------------------------------------------
+D32:  0.0500 ROUND  --       4 Draws,       0 Flashes
+D37:  0.0280 ROUND  --       0 Draws,       2 Flashes
+---------------------------------------------------------
+  2 D-Codes      -----       4 Draws,       2 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.0520 ROUND  --       0 Draws,      60 Flashes
+D11:  0.0520 SQUARE --       0 Draws,      20 Flashes
+D12:  0.0580 ROUND  --       0 Draws,     235 Flashes
+D13:  0.0580 SQUARE --       0 Draws,      25 Flashes
+D14:  0.0620 ROUND  --       0 Draws,      40 Flashes
+D15:  0.0620 SQUARE --       0 Draws,      15 Flashes
+D16:  0.0600 ROUND  --       0 Draws,      10 Flashes
+D17:  0.0600 SQUARE --       0 Draws,       5 Flashes
+D18:  0.1100 ROUND  --       0 Draws,       4 Flashes
+D19:  0.0100 ROUND  --    7085 Draws,       0 Flashes
+D20:  0.0200 ROUND  --     129 Draws,       0 Flashes
+D21:  0.0500 ROUND  --       0 Draws,       4 Flashes
+D22:  0.1000 ROUND  --       0 Draws,       4 Flashes
+D23:  0.0720 ROUND  --       0 Draws,      24 Flashes
+D24:  0.0720 SQUARE --       0 Draws,       8 Flashes
+D25:  0.0780 ROUND  --       0 Draws,      94 Flashes
+D26:  0.0780 SQUARE --       0 Draws,      10 Flashes
+D27:  0.0820 ROUND  --       0 Draws,      16 Flashes
+D28:  0.0820 SQUARE --       0 Draws,       6 Flashes
+D29:  0.0800 ROUND  --       0 Draws,       4 Flashes
+D30:  0.0800 SQUARE --       0 Draws,       2 Flashes
+D31:  0.1400 ROUND  --       0 Draws,       8 Flashes
+D32:  0.0500 ROUND  --      20 Draws,       0 Flashes
+D33:  0.0750 ROUND  --       0 Draws,       4 Flashes
+D34:  0.1050 ROUND  --       0 Draws,       8 Flashes
+D35:  0.0550 ROUND  --       0 Draws,       4 Flashes
+D36:  0.0080 ROUND  --    1188 Draws,       0 Flashes
+D37:  0.0280 ROUND  --       0 Draws,       2 Flashes
+---------------------------------------------------------
+ 28 D-Codes      -----    8422 Draws,     612 Flashes
+
+
+No warnings or errors.
